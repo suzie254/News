@@ -4,9 +4,6 @@ astroid==2.3.3
 attrs==19.3.0
 autopep8==1.5.3
 certifi==2018.1.18
-chardet==3.0.
-cryptography==2.1.4
-cupshelpers==1.0
 defer==1.0.6
 distro-info===0.18ubuntu0.18.04.1
 dominate==2.4.0
