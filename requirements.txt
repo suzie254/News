@@ -3,8 +3,6 @@ asn1crypto==0.24.0
 astroid==2.3.3
 attrs==19.3.0
 autopep8==1.5.3
-black==19.10b0
-Brlapi==0.6.6
 certifi==2018.1.18
 chardet==3.0.4
 Click==7.0
