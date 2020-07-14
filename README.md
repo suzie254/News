@@ -24,7 +24,7 @@ Search top headlines by keyword and get news image, excerpt, source, and much mo
 
 ***BDD***
 
-##### Github-link to News-API.
+##### Github-link to News-API
 
 The following is the github link to the project "News-API":
 This site lacks github pages:**Not applicable**
