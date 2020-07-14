@@ -1,6 +1,6 @@
 # Project Name
 
-News-API
+News
 
 ## Author's Details
 
@@ -18,7 +18,7 @@ Search top headlines by keyword and get news image, excerpt, source, and much mo
 
 1.Open your github account and search for github username: **suzie254**
 
-2.In suzie254's repositories; git clone the News-API repository into your local repository using the following link: **<https://github.com/suzie254/News-API.git>**
+2.In suzie254's repositories; git clone the News repository into your local repository using the following link: **<https://github.com/suzie254/News-API.git>**
 
 3.Open your terminal and run the command ./run.py and use the short codes illustrated to operate....
 
@@ -26,7 +26,7 @@ Search top headlines by keyword and get news image, excerpt, source, and much mo
 
 ##### Github-link to News-API
 
-The following is the github link to the project "News-API":
+The following is the github link to the project "News":
 This site lacks github pages:**Not applicable**
 
 ***Known Bugs***
